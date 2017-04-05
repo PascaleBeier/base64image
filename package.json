@@ -1,6 +1,6 @@
 {
-  "name": "pb-base64image-for-ckedtor",
+  "name": "pb-base64image-for-ckeditor",
   "version": "1.0.0",
-  "description": "An example module to illustrate the usage of a package.json",
+  "description": "Just a lazy fork for my build system",
   "author": "Pascale Beier <mail@pascalebeier.de>"
 }
